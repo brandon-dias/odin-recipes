@@ -1,1 +1,1 @@
-First git commit
+Odin recipes project
